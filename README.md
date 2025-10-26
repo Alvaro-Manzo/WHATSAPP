@@ -68,4 +68,4 @@ numero,nombre,mensaje
 - Sistema de logging con pandas
 - Programación temporal avanzada
 
-¡Disfruta usando el bot! 🤖
+¡Disfruta usando el bot! :)
